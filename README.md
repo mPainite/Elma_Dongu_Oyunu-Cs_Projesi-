@@ -14,3 +14,5 @@
 2. [cite_start]**Visual Studio 2022** ile `.sln` dosyasını açın.
 3. [cite_start]Bağımlılıkların yüklenmesi için projeyi Build edin.
 4. [cite_start]"Start" butonuna basarak oyunu başlatın.
+
+⚠️ Önemli Not: Projeyi ".zip" olarak indirirseniz, Windows güvenlik sebebiyle .resx dosyalarını engelleyebilir. Hata almamak için projeyi indirdikten sonra ZIP dosyasına sağ tıklayıp Özellikler -> Engellemeyi Kaldır seçeneğini işaretleyiniz veya projeyi Git Clone yöntemiyle bilgisayarınıza çekiniz.
